@@ -1,0 +1,1 @@
+python relation_class.py "≤‚ ‘øŒ≥Ã" "mooc" "kg" "kg" "202.117.16.39" 3306
