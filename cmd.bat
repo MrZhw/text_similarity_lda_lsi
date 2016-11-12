@@ -1,1 +1,1 @@
-python relation_class.py "≤‚ ‘øŒ≥Ã" "mooc" "kg" "kg" "202.117.16.39" 3306
+python relation_class.py "className" "db" "user" "passwd" "host" port
